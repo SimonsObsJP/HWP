@@ -1,0 +1,85 @@
+MAXIPOL: Cosmic Microwave Background Polarimetry Using a Rotating Half-Wave Plate
+Johnson, B. R. et al. 2007 ApJ
+https://ui.adsabs.harvard.edu/abs/2007ApJ...665...42J/abstract
+MAXIPOL, result, pipeline, continuous rotation, HWPSS, leakage
+
+Systematic errors in cosmic microwave background polarization measurements 
+O'Dea, Daniel; Challinor, Anthony; Johnson, Bradley R. 
+https://ui.adsabs.harvard.edu/#abs/2007MNRAS.376.1767O/abstract
+systematics
+
+Impact of modulation on CMB B-mode polarization experiments 
+Brown, Michael L et al, 2009 MNRAS
+ClOVER, simulation, pipeline, continuous rotation, 1/f
+
+Performance of three- and five-stack achromatic half-wave plates at millimeter wavelengths
+Matsumura, Tomotake et al
+https://ui.adsabs.harvard.edu/abs/2009ApOpt..48.3614M/abstract
+EBEX, modeling
+
+Modeling dielectric half-wave plates for cosmic microwave background polarimetry using a Mueller matrix formalism 
+Bryan, Sean A. 2010 ApOpt
+https://ui.adsabs.harvard.edu/abs/2010ApOpt..49.6313B/abstract
+SPIDER, modeling
+
+The Impact of the Spectral Response of an Achromatic Half-wave Plate on the Measurement of the Cosmic Microwave Background Polarization 
+Bao, C. et al, 2012 ApJ
+https://ui.adsabs.harvard.edu/abs/2012ApJ...747...97B/abstract
+EBEX, simulation, FG systematics
+
+Transfer matrix for treating stratified media including birefringent crystals
+Essinger-Hileman, Thomas, 2013 ApOpt
+https://ui.adsabs.harvard.edu/abs/2013ApOpt..52..212E/abstract
+modeling
+
+Modulation of cosmic microwave background polarization with a warm rapidly rotating half-wave plate on the Atacama B-Mode Search instrument
+Kusaka, A et al. 2014 RScI
+https://ui.adsabs.harvard.edu/#abs/2014RScI...85b4501K/abstract
+ABS, intrument performance, continuous rotation, HWPSS, 1/f
+
+Empirical modelling of the BLASTPol achromatic half-wave plate for precision submillimetre polarimetry 
+Moncelsi, Lorenzo et al.
+https://ui.adsabs.harvard.edu/abs/2014MNRAS.437.2772M/abstract
+BLASTPol, modeling, pipeline
+
+The Balloon-borne Large Aperture Submillimeter Telescope for Polarimetry-BLASTPol: performance and results from the 2012 Antarctic flight 
+Galitzki, N. et al.
+https://ui.adsabs.harvard.edu/abs/2014SPIE.9145E..0RG/abstract
+BLASTPol, instrument test
+
+Systematic effects from an ambient-temperature, continuously rotating half-wave plate
+Essinger-Hileman, T. et al. 2016 RScI
+https://ui.adsabs.harvard.edu/abs/2016RScI...87i4503E/abstract
+ABS, systematics estimation, HWPSS, leakage
+
+Performance of a continuously rotating half-wave plate on the POLARBEAR telescope
+Takakura, S et al, 2017 JCAP
+https://ui.adsabs.harvard.edu/abs/2017JCAP...05..008T/abstract
+PB1, intrument performance, continuous rotation, HWPSS, leakage, nonlinearity, 1/f
+
+Polarimetry at millimeter wavelengths with the NIKA camera: calibration and performance
+Ritacco, A.; Ponthieu, N. et al
+https://ui.adsabs.harvard.edu/abs/2017A%26A...599A..34R/abstract
+NIKA on IRAM, instrument performance, continuous rotation, HWPSS, leakage, 1/f
+
+Results from the Atacama B-mode Search (ABS) experiment
+Kusaka, Akito et al. 2018 JCAP
+https://ui.adsabs.harvard.edu/abs/2018JCAP...09..005K/abstract
+ABS, result, pipeline, continuous rotation
+
+Studies of systematic uncertainties for Simons Observatory: polarization modulator related effects 
+Salatino, M et al, 2018 SPIE
+https://ui.adsabs.harvard.edu/abs/2018SPIE10708E..48S/abstract
+SO, modeling, HWPSS, leakage
+
+A Measurement of the Degree Scale CMB B-mode Angular Power Spectrum with POLARBEAR
+POLARBEAR 2019 ApJ?
+https://ui.adsabs.harvard.edu/abs/2019arXiv191002608A/abstract
+PB1, result, pipeline, continuous rotation, systematics
+
+Intensity-coupled Polarization in Instruments with a Continuously Rotating Half-wave Plate
+Didier, Joy et al. 2019 ApJ
+https://ui.adsabs.harvard.edu/abs/2019ApJ...876...54D/abstract
+EBEX, instrument performance, continuous rotation, HWPSS, leakage, nonlinearity
+
+...
